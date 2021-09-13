@@ -20,8 +20,8 @@ Useful links:
 }
 \author{
 \itemize{
-\item Farid Musayev
-\item Mucahit Sahin
-\item Selen Karaduman
+\item Farid Musayev   (gitHub:"faridmusayev", liuid:farmu437)
+\item Mucahit Sahin   (gitHub:"mchtsahin", liuid:mucsa806)
+\item Selen Karaduman (gitHub:"selenkaraduman", liuid:selka266)
 }
 }
